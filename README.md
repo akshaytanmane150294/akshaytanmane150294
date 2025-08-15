@@ -5,6 +5,6 @@
 - ✅ I’ve recently completed: The Shape Viewer Project, which allows visualization of various geometric shapes using advanced rendering and backend integration.[The Shape Viewer Project](https://github.com/akshaytanmane150294/ShapeViewer_WebApplication.git)<br/>
       Tech Stack Used: React, Three.js, Python, Django, AWS, and REST APIs.
       Key Highlights: Dynamic geometry generation, plugin-based architecture, and smooth 3D rendering.
-- 📫 How to reach me: akshatanmane1@gmail.com
+- 📫 How to reach me: akshaytanmane1@gmail.com
 - ⚡ Fun fact: Solved 300+ problems on LeetCode, and Codechef and Codeforces steadily improving my problem-solving speed, accuracy, and efficiency in competitive programming.
 
