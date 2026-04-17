@@ -6,7 +6,7 @@
       Tech Stack Used: React, Three.js, Python, Django, AWS, and REST APIs.
       Key Highlights: Dynamic geometry generation, plugin-based architecture, and smooth 3D rendering.
 - 📫 How to reach me: akshaytanmane1@gmail.com
-- ⚡ Fun fact: Solved 300+ problems on LeetCode, and Codechef and Codeforces steadily improving my problem-solving speed, accuracy, and efficiency in competitive programming.
+- ⚡ Fun fact: Solved 400+ problems on LeetCode, and Codechef and Codeforces steadily improving my problem-solving speed, accuracy, and efficiency in competitive programming.
 
 <!-- Github Stats -->
 ![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshaytanmane150294&count_private=true&show_icons=true&theme=radical&hide_rank=false)
